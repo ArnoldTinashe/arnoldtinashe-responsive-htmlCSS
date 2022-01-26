@@ -1,0 +1,10 @@
+@font-face {
+    font-family:"hero" ;
+    src: url(./font/decalotype.italic.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-family: "pp";
+    src: url(./font/decalotype.medium.ttf);
+    font-style: normal;
+}
