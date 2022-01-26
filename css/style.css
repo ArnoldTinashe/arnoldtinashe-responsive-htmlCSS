@@ -836,5 +836,9 @@ footer p a
     text-align: center;
     font-size: 32px
   }
+  .comment-inner p{
+      font-size: 15px;
+  }
+}
 }
 
