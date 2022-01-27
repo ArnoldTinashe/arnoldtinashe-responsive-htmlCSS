@@ -1,0 +1,10 @@
+@font-face {
+    font-family:"lato" ;
+    src: url("./font/lato-regular.eot");
+    font-style: normal;
+}
+@font-face {
+    font-family: "pp";
+    src: url("./font/Poppins-Regular.ttf");
+    font-style: normal;
+}
